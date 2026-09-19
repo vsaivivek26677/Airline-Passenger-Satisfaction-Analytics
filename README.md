@@ -1,4 +1,4 @@
-# Airline Passenger Satisfaction Analytics Dashboard
+# Airline Passenger Satisfaction Analytics
 
 Analyzed airline passenger data using SQL and built a dashboard to uncover key factors driving customer satisfaction.
 
